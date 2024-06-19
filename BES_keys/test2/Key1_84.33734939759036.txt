@@ -1,0 +1,5 @@
+Gender-<class 'str'>-7
+Job Classification-<built-in function nysiis>-8
+Balance-<built-in function nysiis>-8
+Date Joined-<built-in function soundex>-6
+Name-<built-in function nysiis>-4

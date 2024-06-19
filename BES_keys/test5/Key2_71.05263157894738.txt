@@ -1,0 +1,4 @@
+Region-<class 'str'>-3
+Job Classification-<class 'str'>-2
+Name-<built-in function metaphone>-2
+Date Joined-<class 'str'>-2

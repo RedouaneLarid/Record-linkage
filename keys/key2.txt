@@ -1,0 +1,4 @@
+Name-<class 'str'>-2
+Date Joined-<built-in function metaphone>-4
+Surname-<built-in function metaphone>-7
+Balance-<built-in function metaphone>-7

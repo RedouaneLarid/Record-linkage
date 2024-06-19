@@ -1,0 +1,5 @@
+Date Joined-<built-in function soundex>-10
+Balance-<class 'str'>-2
+Name-<built-in function nysiis>-2
+Surname-<built-in function soundex>-2
+Gender-<class 'str'>-2

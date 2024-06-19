@@ -1,0 +1,4 @@
+Region-<class 'str'>-2
+Balance-<class 'str'>-2
+Name-<built-in function metaphone>-2
+Surname-<class 'str'>-2

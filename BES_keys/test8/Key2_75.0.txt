@@ -1,0 +1,4 @@
+Name-<built-in function soundex>-2
+Balance-<class 'str'>-4
+Surname-<class 'str'>-2
+Age-<built-in function metaphone>-2

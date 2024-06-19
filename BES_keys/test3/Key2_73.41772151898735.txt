@@ -1,0 +1,4 @@
+Name-<built-in function nysiis>-2
+Age-<built-in function metaphone>-2
+Surname-<built-in function metaphone>-2
+Job Classification-<class 'str'>-3

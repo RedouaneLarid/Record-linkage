@@ -1,0 +1,4 @@
+Job Classification-<class 'str'>-4
+Date Joined-<class 'str'>-5
+Age-<built-in function metaphone>-5
+Surname-<class 'str'>-5

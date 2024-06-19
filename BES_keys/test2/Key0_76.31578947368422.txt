@@ -1,0 +1,5 @@
+Name-<class 'str'>-2
+Surname-<built-in function soundex>-10
+Balance-<class 'str'>-10
+Gender-<class 'str'>-10
+Age-<built-in function soundex>-10

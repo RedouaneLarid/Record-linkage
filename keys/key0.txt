@@ -1,0 +1,8 @@
+Age-<class 'str'>-2
+Gender-<built-in function soundex>-7
+Balance-<built-in function metaphone>-8
+Date Joined-<built-in function metaphone>-8
+Job Classification-<built-in function nysiis>-7
+Region-<built-in function nysiis>-6
+Surname-<built-in function soundex>-9
+Name-<built-in function metaphone>-2
